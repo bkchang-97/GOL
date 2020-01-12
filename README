@@ -1,4 +1,4 @@
-This project was created using and run using Python 3.7 by Benjamin Chang. The program is already
+This project was created using and run using Python 3.7 by Benjamin Chang. The program is ready
 to run already. There are different starter boards listed under "Initialization Functions" on line
 24. To modify the board initialization, type in the initialization function without brackets on line
 171 for the third parameter for the function grid.
